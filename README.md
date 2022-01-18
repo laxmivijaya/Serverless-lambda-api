@@ -8,3 +8,5 @@ The video tutorial:Building Serverless-lambda-api is at https://youtu.be/9eHh946
 Thanks to Felix Yu for detailed explanation in the video.
 
 Sharing my repo to help the users based on requests in the comments. 
+
+Refer to Dynamodb website for CRUD operation in Python: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.03.html
